@@ -50,7 +50,7 @@
 			<systemPath>${project.basedir}/lib/BossShopPro-2.0.9.jar</systemPath>
 		</dependency>
 	</dependencies>
-	<description>PlayerShops GUI is the most playerfriendly shop plugin.
+	<description>PlayerShops GUI is the most PlayerFriendly shop plugin.
 Using this plugin players will be able to create their own virtual shop, where they can sell their items. They will be able to browse around in a public shop listing, check out other shops and purchase items from other players. 
 Everything works with a intuitive inventory GUI - basically zero commands required! 
 PlayerShops is a BossShopPro addon. It requires BossShopPro or higher in order to work.</description>
